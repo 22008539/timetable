@@ -156,5 +156,3 @@ Execute the program
 
 # OUTPUT
 ![model](image.png.png)
-#Result:
-The program is executed Successfully.
