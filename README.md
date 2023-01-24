@@ -154,5 +154,7 @@ Execute the program
 </body>
 
 
-# OUPUT
+# OUTPUT
 ![model](image.png.png)
+#Result:
+The program is executed Successfully.
